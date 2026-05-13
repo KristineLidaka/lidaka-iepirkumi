@@ -15,3 +15,11 @@ docker-compose up --build
 3. **Access the App:**
    
 http://localhost:8080
+
+**Tech Stack**
+
+Frontend: Vue.js, Vite, Bootstrap
+
+Backend: Python, Flask
+
+Orchestration: Docker Compose
