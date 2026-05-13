@@ -1,0 +1,7 @@
+Flask
+num2words
+python-dotenv
+flask_cors
+black==24.1.1
+isort==5.13.2
+pylint==3.0.3
